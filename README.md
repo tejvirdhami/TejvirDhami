@@ -6,8 +6,7 @@
         <img src="user.gif" height="200" />
     </div>
     <div align="center">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Tejvir;Software+Developer;Web+Developer;Open-Source+Enthusiast" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Tejvir;Software+Developer;Web+Developer;Open-Source+Enthusiast" />
     </div>
     <div align="center">
         <a href="https://www.linkedin.com/in/tejvir-dhami-20b6381a3/"><img
