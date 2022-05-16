@@ -17,17 +17,6 @@
     </div>
     <div align="left">
         <br>
-        <p>
-            <strong>
-                I am a JavaScript Developer, Web Developer and IOS developer. I have experience
-                working with C# and Java. Good in Object-Oriented Programming, Data Structures, Algorithms,
-                Database Systems, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionating about .NET, Back-End Technologies, Web 3, Blockchain, Linux, Virtualization,
-                Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality
-                product spirit. Eager to learn, self quick learner, self-motivated, and social.
-            </strong>
-        </p>
         <ul>
             <li>🌱 <b>I’m currently working</b>: JavaScript Developer.</li>
             <li>📫 <b>How to reach me</b>: tejvirdhami99@gmail.com
