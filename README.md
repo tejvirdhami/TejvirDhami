@@ -3,7 +3,7 @@
     <body>
 <div>
     <div align="center">
-        <img src="user.gif" height="200" width="50%" />
+        <img src="user.gif" height="150" width="150" />
     </div>
     <div align="center">
         <img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+%F0%9F%91%8B++I'm+Tejvir;Software+Developer;JavaScript+Developer;Full-stack+Developer" />
