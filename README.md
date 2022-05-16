@@ -5,7 +5,7 @@
     <div align="center">
         <img src="user.gif" height="200" />
     </div>
-    <div align="center">
+    <div style="text-align:center;" align="center">
         <img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+%F0%9F%91%8B++I'm+Tejvir;Software+Developer;JavaScript+Developer;Full-stack+Developer" />
     </div>
     <div align="center">
