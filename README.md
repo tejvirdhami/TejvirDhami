@@ -4,7 +4,6 @@
 <div>
     <div align="center">
         <img src="user.gif" height="200" />
-
     </div>
     <div align="center">
         <img
