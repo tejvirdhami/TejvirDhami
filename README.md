@@ -21,6 +21,8 @@
             <li>🌱 <b>I’m currently working</b>: JavaScript Developer.</li>
             <li>📫 <b>How to reach me</b>: tejvirdhami99@gmail.com
             </li>
+            <li>⚓️ <b>Website</b>: www.tejvirdhami.ca
+            </li>
         </ul>
     </div>
     <div align="center">
