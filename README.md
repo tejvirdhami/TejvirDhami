@@ -1,3 +1,6 @@
+<html>
+    <head />
+    <body>
 <div>
     <div align="center">
         <img src="user.gif" height="200" />
@@ -51,3 +54,5 @@
         <p>Loading</p>
     </div>
 </div>
+    </body>
+    </html>
