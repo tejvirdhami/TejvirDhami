@@ -35,10 +35,6 @@
         <br>
         <br>
     </div>
-    <div align="center">
-        <img src="GitHub.gif" height="100" />
-        <p>Loading</p>
-    </div>
 </div>
     </body>
     </html>
