@@ -3,10 +3,8 @@
     <body>
 <div>
     <div align="center">
-       <h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-        <h1>I'm Tejvir Dhami.</h1>
-    </div>
-    <div align="center">
+       <h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
+        I'm Tejvir Dhami</h1>
         <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Software+Developer;JavaScript+Developer;Web+Developer" />
     </div>
 <div align="left">
