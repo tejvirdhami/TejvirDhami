@@ -16,7 +16,9 @@
         </a>
     </div>
     <div align="left">
+        
 ## 🧑🏻‍💻 About Me:
+        
         <br>
         <ul>
             <li>🔭 <b>I’m currently working</b>: JavaScript Developer.</li>
