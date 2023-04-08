@@ -6,15 +6,9 @@
        <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tejvir Dhami.</h1>
     </div>
     <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hi!+%F0%9F%91%8B++I'm+Tejvir;Software+Developer;JavaScript+Developer;Full-stack+Developer" />
+        <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Software+Developer;JavaScript+Developer;Web+Developer" />
     </div>
-    <div align="center">
-        <a href="https://www.linkedin.com/in/tejvir-dhami-20b6381a3/"><img
-                src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-        <a href="https://twitter.com/DhamiTejvir">
-            <img src="https://img.shields.io/twitter/follow/DhamiTejvir?label=Follow&style=social" />
-        </a>
-    </div>
+
     <div align="left">
         
 ## 🧑🏻‍💻 About Me:
