@@ -15,9 +15,8 @@
             <img src="https://img.shields.io/twitter/follow/DhamiTejvir?label=Follow&style=social" />
         </a>
     </div>
-## 🧑 Tool Stack:
-    
     <div align="left">
+## 🧑🏻‍💻 About Me:
         <br>
         <ul>
             <li>🔭 <b>I’m currently working</b>: JavaScript Developer.</li>
