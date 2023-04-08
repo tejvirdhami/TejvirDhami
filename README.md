@@ -56,7 +56,6 @@
   <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tejvirdhami&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejvirdhami&" alt="tejvirdhami" />
-  <img src="https://github.com/tejvirdhami/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
     </div>
      </div>
         
