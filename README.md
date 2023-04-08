@@ -18,8 +18,6 @@
     <div align="left">
         
 ## 🧑🏻‍💻 About Me:
-        
-        
         <ul>
             <li>🔭 <b>I’m currently working</b>: JavaScript Developer.</li>
             <li>🌱 <b>I’m currently learing</b>: Angular.</li>
