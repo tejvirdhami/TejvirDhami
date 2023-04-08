@@ -3,7 +3,7 @@
     <body>
 <div>
     <div align="center">
-        <img src="user.gif" height="100" width="100" />
+       <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tejvir Dhami.</h1>
     </div>
     <div align="center">
         <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hi!+%F0%9F%91%8B++I'm+Tejvir;Software+Developer;JavaScript+Developer;Full-stack+Developer" />
