@@ -5,7 +5,7 @@
     <div align="center">
        <h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
         I'm Tejvir Dhami</h1>
-        <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Software+Developer;JavaScript+Developer;Web+Developer" />
+        <img src="https://readme-typing-svg.herokuapp.com?size=32&color=000000&weight=900&center=true&lines=Software+Developer;JavaScript+Developer;Web+Developer" />
     </div>
 <div align="left">
     
@@ -20,7 +20,8 @@
             <li>⚓️ <b>Website</b>: www.tejvirdhami.ca
             </li>
 </ul>
-
+<br>
+    
 ## 🛠️ Tool Stack:
 
 <p>
@@ -47,15 +48,17 @@
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
-    </div>
-    <div align="center">
-        <h1>Contribution Activity</h1>
-        <br>
+</div>
+<br>
+   
+ ## 📈Contribution Activity:
+    
+  <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tejvirdhami&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejvirdhami&" alt="tejvirdhami" />
         <br>
         <br>
     </div>
-</div>
+  </div>
     </body>
     </html>
