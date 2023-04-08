@@ -8,9 +8,7 @@
     <div align="center">
         <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Software+Developer;JavaScript+Developer;Web+Developer" />
     </div>
-
-    <div align="left">
-        
+<div align="left">        
 ## 🧑🏻‍💻 About Me:
         
 <ul>
