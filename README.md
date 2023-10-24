@@ -13,7 +13,7 @@
         
 <ul>
             <li>🔭 <b>I’m currently working</b>: Full-Stack Developer.</li>
-            <li>🌱 <b>I’m currently learing</b>: React Native.</li>
+            <li>🌱 <b>I’m currently learing</b>: NEST JS.</li>
             <li>👯 <b>I’m looking to collaborate on</b>: React, Typescript projects.</li>
             <li>💬 <b>Ask me about</b>: Java, NodeJS, C#, React, Typescript.</li>
             <li>📫 <b>How to reach me</b>: tejvirdhami99@gmail.com</li>
